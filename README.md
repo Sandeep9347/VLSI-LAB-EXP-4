@@ -59,6 +59,9 @@ endmodule
 ```
 OUT PUT:
 
+![image](https://github.com/Sandeep9347/VLSI-LAB-EXP-4/assets/160619092/efcedc5a-ca5c-4865-8c3a-2dd5783f64d5)
+
+
 
 LOGIC DAIGRAM:
 
@@ -94,6 +97,8 @@ endmodule
 ```
 OUT PUT:
 
+![image](https://github.com/Sandeep9347/VLSI-LAB-EXP-4/assets/160619092/59089ae2-dda9-4062-bf5a-fee0cd11b1c9)
+
 
 
 LOGIC DAIGRAM:
@@ -121,6 +126,8 @@ endmodule
 ```
  OUT PUT:
 
+![image](https://github.com/Sandeep9347/VLSI-LAB-EXP-4/assets/160619092/2c169db2-be81-4186-987b-bba341b7f736)
+
 
  LOGIC DAIGRAM:
 
@@ -146,6 +153,13 @@ end
 endmodule
 
 ```
+
+OUT PUT:
+
+![image](https://github.com/Sandeep9347/VLSI-LAB-EXP-4/assets/160619092/faf33cf1-655b-48d9-9946-b7f9adbc6859)
+
+
+
  LOGIC DAIGRAM:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-4/assets/6987778/a1fc5f68-aafb-49a1-93d2-779529f525fa)
