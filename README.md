@@ -1,22 +1,22 @@
-# VLSI-LAB-EXP-4
+# EXPERIMENT-4  SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
 
-SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+# DATE: 
 
-AIM: 
+# AIM: 
 
  To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Xilinx ISE.
  
 
-APPARATUS REQUIRED:
+# APPARATUS REQUIRED:
 
 
-Xilinx 14.7
+vivado 14.7
 Spartan6 FPGA
 
 
-PROCEDURE:
+# PROCEDURE:
 
-STEP:1  Start  the Xilinx navigator, Select and Name the New project.
+STEP:1  Start  the vivado navigator, Select and Name the New project.
 STEP:2  Select the device family, device, package and speed.       
 STEP:3  Select new source in the New Project and select Verilog Module as the Source type.                       
 STEP:4  Type the File Name and Click Next and then finish button. Type the code and save it.
